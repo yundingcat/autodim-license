@@ -1,0 +1,4 @@
+flask>=3.0
+cryptography>=42.0
+gunicorn>=21.0
+（内容由AI生成，仅供参考）
